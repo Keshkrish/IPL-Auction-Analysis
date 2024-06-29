@@ -1,0 +1,597 @@
+1) Shikhar Dhawan - Punjab Kings - Rs 8.25 Crore
+
+2) Ravichandran Ashwin - Rajasthan Royals - Rs 5 Crore
+
+3) Pat Cummins - Kolkata Knight Riders - Rs 7.25 Crore
+
+4) Kagiso Rabada - Punjab Kings - Rs 9.25 Crore
+
+5) Trent Boult - Rajasthan Royals - Rs 8 Crore
+
+6) Shreyas Iyer - Kolkata Knight Riders - Rs 12.25 Crore
+
+7) Mohammed Shami - Gujarat Titans - Rs 6.25 Crore
+
+8) Faf du Plessis - Royal Challengers Bangalore - Rs 7 Crore
+
+9) Quinton de Kock - Lucknow Super Giants - Rs 6.75 Crore
+
+10) David Warner - Delhi Capitals - Rs 6.25 Crore
+
+11) Manish Pandey - Lucknow Super Giants - Rs 4.60 Crore
+
+12) Shimron Hetmyer - Rajasthan Royals - Rs 8.50 Crore
+
+13) Robin Uthappa - Chennai Super Kings - Rs 2 Crore
+
+14) Jason Roy - Gujarat Titans - Rs 2 Crore
+
+15) David Miller - Gujarat Titans - Rs 3 Crore
+
+16) Devdutt Padikkal - Rajasthan Royals - Rs 7.75 Crore
+
+17) Suresh Raina - Unsold
+
+18) Steve Smith - Unsold
+
+19) Dwayne Bravo - Chennai Super Kings - Rs 4.40 Crore
+
+20) Nitish Rana - Kolkata Knight Riders - Rs 8 Crore
+
+21) Jason Holder - Lucknow Super Giants - Rs 8.75 Crore
+
+22) Shakib Al Hasan - Unsold
+
+23) Harshal Patel - Royal Challengers Bangalore - Rs 10.75 Crore
+
+24) Deepak Hooda - Lucknow Super Giants - Rs 5.75 Crore
+
+25) Wanindu Hasaranga - Royal Challengers Bangalore - Rs 10.75 Crore
+
+26) Washington Sundar - Sunrisers Hyderabad - Rs 8.75 Crore
+
+27) Krunal Pandya - Lucknow Super Giants - Rs 8.25 Crore
+
+28) Mitchell Marsh - Delhi Capitals - Rs 6.50 Crore
+
+29) Mohammad Nabi - Kolkata Knight Riders - Rs 1 Crore
+
+30) Matthew Wade - Gujarat Titans - Rs 2.40 Crore
+
+31) Ambati Rayudu - Chennai Super Kings - Rs 6.75 Crore
+
+32) Ishan Kishan - Mumbai Indians - Rs 15.25 Crore
+
+33) Jonny Bairstow - Punjab Kings - Rs 6.75 Crore
+
+34) Dinesh Karthik - Royal Challengers Bangalore - Rs 5.50 Crore
+
+35) Wriddhiman Saha - Gujarat Titans - Rs 1 Crore
+
+36) Sam Billings - Kolkata Knight Riders - Rs 2 Crore
+
+37) Nicholas Pooran - Sunrisers Hyderabad - Rs 10.75 Crore
+
+38) T Natarajan - Sunrisers Hyderabad - Rs 4 Crore
+
+39) Deepak Chahar - Chennai Super Kings - Rs 14 Crore
+
+40) Umesh Yadav - Kolkata Knight Riders - Rs 2 Crore
+
+41) Prasidh Krishna - Rajasthan Royals - Rs 10 Crore
+
+42) Lockie Ferguson - Gujarat Titans - Rs 10 Crore
+
+43) Josh Hazlewood - Royal Challengers Bangalore - Rs 7.75 Crore
+
+44) Mark Wood - Lucknow Super Giants - Rs 7.50 Crore
+
+45) Bhuvneshwar Kumar - Sunrisers Hyderabad - Rs 4.20 Crore
+
+46) Shardul Thakur - Delhi Capitals - Rs 10.75 Crore
+
+47) Mustafizur Rahman - Delhi Capitals - Rs 2 Crore
+
+48) Adil Rasheed - Unsold
+
+49) Mujeeb Zadran - Unsold
+
+50) Imran Tahir - Unsold
+
+51) Kuldeep Yadav - Delhi Capitals - Rs 2 Crore
+
+52) Adam Zampa - Unsold
+
+53) Rahul Chahar - Punjab Kings - Rs 5.25 Crore
+
+54) Yuzvendra Chahal - Rajasthan Royals - Rs 6.50 Crore
+
+55) Amit Mishra - Unsold
+
+56) Rajat Patidar - Unsold
+
+57) Priyam Garg - Sunrisers Hyderabad - Rs 20 Lakh
+
+58) Abhinav Sadarangani - Gujarat Titans - Rs 2.60 Crore
+
+59) Dewald Brevis - Mumbai Indians - Rs 3 Crore
+
+60) Ashwin Hebbar - Delhi Capitals - Rs 20 Lakh
+
+61) Anmolpreet Singh - Mumbai Indians - Rs 20 Lakh
+
+62) Rahul Tripathi - Sunrisers Hyderabad - Rs 8.50 Crore
+
+63) Riyan Parag - Rajasthan Royals - Rs 3.8 Crore
+
+64) Abhishek Sharma - Sunrisers Hyderabad - Rs 6.50 Crore
+
+65) Sarfaraz Khan - Delhi Capitals - Rs 20 Lakh
+
+66) Shahrukh Khan - Punjab Kings - Rs 9 Crore
+
+67) Shivam Mavi - Kolkata Knight Riders - Rs 7.25 Crore
+
+68) Rahul Tewatia - Gujarat Titans - Rs 9 Crore
+
+69) Kamlesh Nagarkoti - Delhi Capitals - Rs 1.1 Crore
+
+70) Harpreet Brar - Punjab Kings - Rs 3.8 Crore
+
+71) Shahbaz Ahamad - Royal Challengers Bangalore - Rs 2.4 Crore
+
+72) KS Bharat - Delhi Capitals - Rs 2 Crore
+
+73) Mohammed Azharuddeen - Unsold
+
+74) Vishnu Vinod - Sunrisers Hyderabad - Rs 50 Lakh
+
+75) Vishnu Solanki - Unsold
+
+76) Anuj Rawat - Royal Challengers Bangalore - Rs 3.4 Crore
+
+77) Prabhsimran Singh - Punjab Kings - Rs 60 Lakhs
+
+78) N Jagadeesan - Chennai Super Kings - 20 Lakh
+
+79) Sheldon Jackson - Kolkata Knight Riders - Rs 60 Lakhs
+
+80) Jitesh Sharma - Punjab Kings - Rs 20 Lakh
+
+81) Basil Thampi - Mumbai Indians - Rs 30 Lakh
+
+82) Kartik Tyagi - Sunrisers Hyderabad - Rs 4 Crore
+
+83) Akashdeep - Royal Challengers Bangalore - Rs 20 Lakh
+
+84) KM Asif - Chennai Super Kings - Rs 20 Lakh
+
+85) Avesh Khan - Lucknow Super Giants - Rs 10 Crore
+
+86) Ishan Porel - Punjab Kings - Rs 25 Lakh
+
+87) Tushar Deshpande - Chennai Super Kings - Rs 20 Lakh
+
+88) Ankit Rajpoot - Lucknow Super Giants - Rs 50 Lakh
+
+89) Noor Ahmad - Gujarat Titans - Rs 30 Lakh
+
+90) Murugan Ashwin - Mumbai Indians - Rs 1.60 Crore
+
+91) M Siddharth - Unsold
+
+92) KC Cariappa - Rajasthan Royals - Rs 30 Lakh
+
+93) Shreyas Gopal - Sunrisers Hyderabad - Rs 75 Lakh
+
+94) Jagadeesha Suchith - Sunrisers Hyderabad - Rs 20 Lakh
+
+95) R Sai Kishore - Gujarat Titans - Rs 3 Crore
+
+96) Sandeep Lamichhane - Unsold
+
+97) C Hari Nishaanth - Chennai Super Kings - Rs 20 Lakh
+
+98) Aiden Markram - Sunrisers Hyderabad - Rs 2.6 Crore
+
+99) Ajinkya Rahane - Kolkata Knight Riders - Rs 1 crore.
+
+100) Dawid Malan - Unsold
+
+101) Mandeep Singh - Delhi Capitals - Rs 1.1 Crore
+
+102) Marnus Labuschagne - Unsold
+
+103) Saurabh Tiwary - Unsold
+
+104) Eoin Morgan - Unsold
+
+105) Aaron Finch - Unsold
+
+106) Cheteshwar Pujara - Unsold
+
+107) Liam Livingstone - Punjab Kings - Rs 11.5 Crore
+
+108) Dominic Drakes - Gujarat Titans - Rs 1.1 Crore
+
+109) James Neesham - Rajasthan Royals - Rs 1.5 Crore
+
+110) Jayant Yadav - Gujarat Titans - Rs 1.70 Crore
+
+111) Vijay Shankar - Gujarat Titans - Rs 1.40 Crore
+
+112) Chris Jordan - Chennai Super Kings - Rs 3.60 Crore
+
+113) Odean Smith - Punjab Kings - Rs 6 Crore
+
+114) Marco Jansen - Sunrisers Hyderabad - Rs 4.20 Crore
+
+115) Shivam Dube - Chennai Super Kings - Rs 4 Crore
+
+116) K Gowtham -  Lucknow Super Giants - Rs 90 Lakh
+
+117) Ishant Sharma - Unsold
+
+118) Khaleed Ahmed - Delhi Capitals - Rs 5.25 Crore
+
+119) Dushmantha Chameera - Lucknow Super Giants - Rs 2 Crore
+
+120) Lungi Ngidi - Delhi Capitals - Rs 50 Lakh
+
+121) Chetan Sakariya - Delhi Capitals - Rs 4.20 Crore
+
+122) Sandeep Sharma - Punjab Kings - Rs 50 Lakh
+
+123) Navdeep Saini - Rajasthan Royals - Rs 2.60 Crore
+
+124) Sheldon Cottrell - Unsold
+
+125) Jaydev Unadkat - Mumbai Indians - Rs 1.30 Crore
+
+126) Nathan Coulter-Nile - Rajasthan Royals - Rs 2 Crore
+
+127) Mayank Markande - Mumbai Indians - Rs 65 Lakh
+
+128) Tabraiz Shamsi - Unsold
+
+129) Qais Ahmad - Unsold
+
+130) Shahbaz Nadeem - Lucknow Super Giants - Rs 50 Lakh
+
+131) Maheesh Theekshana - Chennai Super Kings - Rs 70 Lakh
+
+132) Karn Sharma - Royal Challengers Bangalore - Rs 50 Lakh
+
+133) Ish Sodhi - Unsold
+
+134) Piyush Chawla - Unsold
+
+135) Virat Singh - Unsold
+
+136) Himmat Singh - Unsold
+
+137) Sachin Baby - Unsold
+
+138) Harnoor Singh - Unsold
+
+139) Himanshu Rana - Unsold
+
+140) Rinku Singh - Kolkata Knight Riders - Rs 55 Lakh
+
+141) Manan Vohra - Lucknow Super Giants - Rs 20 Lakh
+
+142) Ricky Bhui - Unsold
+
+143) Lalit Yadav - Delhi Capitals - Rs 65 Lakh
+
+144) Ripal Patel - Delhi Capitals - Rs 20 Lakh
+
+145) Yash Dhull - Delhi Capitals - Rs 50 Lakh
+
+146) N Tilak Varma - Mumbai Indians - Rs 1.70 Crore
+
+147) Mahipal Lomror - Royal Challengers Bangalore - Rs 95 Lakh
+
+148) Anukul Roy - Kolkata Knight Riders - Rs 20 Lakh
+
+149) Darshan Nalkande - Gujarat Titans - Rs 20 Lakh
+
+150) Vicky Ostwal - Delhi Capitals - Rs 20 Lakh
+
+151) Sanjay Yadav - Mumbai Indians - Rs 50 Lakh
+
+152) Raj Angad Bawa - Punjab Kings - Rs 2 Crore
+
+153) Rajvardhan Hangargekar - Chennai Super Kings - Rs 1.5 Crore
+
+154) Vasu Vats - Unsold
+
+155) Yash Thakur - Unsold
+
+156) Arzan Nagwaswalla - Unsold
+
+157) Yash Dayal - Gujarat Titans - Rs 3.2 Crore
+
+158) Simarjeet Singh - Chennai Super Kings - Rs 20 Lakh
+
+159) Mujtaba Yousuf - Unsold
+
+160)  Kuldeep Sen - Rajasthan Royals - Rs 20 Lakh
+
+161) Akash Singh - Unsold
+
+162) Finn Allen - Royal Challengers Bangalore - Rs 80 Lakh
+
+163) Devon Conway - Chennai Super Kings - Rs 1 Crore
+
+164) Alex Hales - Kolkata Knight Riders - Rs 1.5 Crore
+
+165) Evin Lewis - Lucknow Super Giants - Rs 2 Crore
+
+166) Karun Nair - Rajasthan Royals - Rs 1.40 Crore
+
+167) Rovman Powell - Delhi Capitals - Rs 2.8 Crore
+
+168) Jofra Archer - Mumbai Indians -Rs 8 Crore
+
+169) Rassie van der Dussen - Rajasthan Royals - Rs 1 Crore
+
+170) Charith Asalanka - Unsold
+
+171) Rishi Dhawan - Punjab Kings - Rs 55 Lakh
+
+172) George Garton - Unsold
+
+173) Dwayne Pretorius - Chennai Super Kings - Rs 50 Lakh
+
+174) Sherfane Rutherford - Royal Challengers Bangalore - Rs 1 Crore
+
+175) Daniel Sams - Mumbai Indians - Rs 2.6 Crore
+
+176) Mitchell Santner - Chennai Super Kings - Rs 1.9 Crore
+
+177) Romario Shepherd - Sunrisers Hyderabad - Rs 7.75 Crore
+
+178) Rahmanullah Gurbaz - Unsold
+
+179) Ben McDermott - Unsold
+
+180) Glenn Phillips - Sunrisers Hyderabad - Rs 1.50 Crore
+
+181) Jason Behrendorff - Royal Challenegers Bangalore - Rs 75 Lakh
+
+182) Nathan Ellis - Punjab Kings - Rs 75 Lakh
+
+183) Fazalhaq Farooqi - Sunrisers Hyderabad - Rs 50 Lakh
+
+184) Siddarth Kaul - Royal Challengers Bangalore - Rs 75 Lakh
+
+185) Obed McCoy - Unsold
+
+186) Tymal Mills - Mumbai Indians - Rs 1.5 Crore
+
+187) Adam Milne - Chennai Super Kings - Rs 1.90 Crore
+
+188) Reece Topley - Unsold
+
+189) Andrew Tye - Unsold
+
+190) Sandeep Warrier - Unsold
+
+191) Tanmay Agarwal - Unsold
+
+192) Tom Kohler-Cadmore - Unsold
+
+193) Subhranshu Senapati - Chennai Super Kings - Rs 20 Lakh
+
+194) Apoorv Wankhede - Unsold
+
+195) Atharva Ankolekar - Unsold
+
+196) Tim David - Mumbai Indians - Rs 8.25 Crore
+
+197) Pravin Dubey - Delhi Capitals - Rs 50 Lakh
+
+198) Prerak Mankad - Punjab Kings - Rs 20 Lakh
+
+199) Suyash Prabhudessai - Royal Challengers Bangalore - Rs 30 Lakh
+
+200) Ramandeep Singh - Mumbai Indians - Rs 20 Lakh
+
+201) B Sai Sudharsan - Lucknow Super Giants - Rs 20 Lakh
+
+202) Atharva Taide - Punjab Kings - Rs 20 Lakh
+
+203) Prashant Chopra - Unsold
+
+204) Dhruv Jurel - Rajasthan Royals - Rs 20 Lakh
+
+205) Aryan Juyal - Mumbai Indians - Rs 20 Lakh
+
+206) Vaibhav Arora - Punjab Kings - Rs 2 Crore
+
+207) Mukesh Choudhary - Chennai Super Kings - Rs 20 Lakh
+
+208) Rasikh Dar - Kolkata Knight Riders - Rs 20 Lakh
+
+209) Ben Dwarshuis - Unsold
+
+210) Pankaj Jaswal - Unsold
+
+211) Mohsin Khan - Lucknow Super Giants - Rs 20 Lakh
+
+212) Chama Milind - Royal Challengers Bangalore - Rs 25 Lakh
+
+213) Mayank Yadav - Lucknow Super Giants - Rs 20 Lakh
+
+214) Tejas Baroka - Rajasthan Royals - Rs 20 Lakh
+
+215) Yuvraj Chudasama - Unsold
+
+216) Prashant Solanki - Chennai Super Kings - Rs 1.20 Crore
+
+217) Midhun Sudhesan - Unsold
+
+218) Martin Guptill - Unsold
+
+219) Bhanuka Rajapaksa - Punjab Kings - Rs 50 Lakh
+
+220) Roston Chase - Unsold
+
+221) Ben Cutting - Unsold
+
+222) Pawan Negi - Unsold
+
+223) Sean Abbott - Sunrisers Hyderabad - Rs 2.40 Crore
+
+224) Alzarri Joseph - Gujarat Titans - Rs 2.40 Crore
+
+225) Dhawal Kulkarni - Unsold
+
+226) Riley Meredith - Mumbai Indians - Rs 1 Crore
+
+227) Kane Richardson - Unsold
+
+228) Rahul Buddhi - Mumbai Indians - Rs 20 Lakh
+
+229) Laurie Evans - Unsold
+
+230) Ayush Badoni - Lucknow Super Giants - Rs 20 Lakh
+
+231) Aneeshwar Gautam - Ryal Challengers Bangalore - Rs 20 Lakh
+
+232) Benny Howell - Punjab Kings - Rs 40 Lakh
+
+233) Hayden Kerr - Unsold
+
+234) Saurabh Kumar - Unsold
+
+235) Shams Mulani - Unsold
+
+236) Dhruv Patel - Unsold
+
+237) Atit Sheth - Unsold
+
+238) David Wiese - Unsold
+
+239) Baba Indrajith - Kolkata Knight Riders - Rs 20 Lakh
+
+240) Kennar Lewis - Unsold
+
+241) BR Sharath - Unsold
+
+242) Sushant Mishra - Unsold
+
+243) Chamika Karunaratne - Kolkata Knight Riders - Rs 50 Lakh
+
+244) David Willey - Royal Challengers Bangalore - Rs 2 Crore
+
+245) Blessing Muzarabani - Unsold
+
+246) R Samarth - Sunrisers Hyderabad - Rs 20 Lakh
+
+247) Abhijeet Tomar - Kolkata Knight Riders - Rs 40 Lakh
+
+248) Pradeep Sangwan - Gujarat Titans - Rs 20 Lakh
+
+249) Kaushal Tambe - Unsold
+
+250) Mukesh Kumar Singh - Unsold
+
+251) Pratham Singh - Kolkata Knight Riders - Rs 20 Lakh
+
+252) Writtick Chatterjee - Punjab Kings - Rs 20 Lakh
+
+253) Ninad Rathva - Unsold
+
+254) Hrithik Shokeen - Mumbai Indians - Rs 20 Lakh
+
+255) Shashank Singh - Sunrisers Hyderabad - Rs 20 Lakh
+
+256) Kyle Mayers - Lucknow Super Giants - Rs 50 Lakh
+
+257) Amit Ali - Unsold
+
+258) Karan Sharma -  Lucknow Super Giants - Rs 20 Lakh
+
+259) Baltej Dhanda - Punjab Kings - Rs 20 Lakh
+
+260) Saurabh Dubey - Sunrisers Hyderabad - Rs 20 Lakh
+
+261) Lalit Yadav - Unsold
+
+262) Mohammed Arshad Khan - Mumbai Indians - Rs 20 Lakh
+
+263) Ansh Patel - Punjab Kings - Rs 20 Lakh
+
+264) Ashok Sharma - Kolkata Knight Riders - Rs 55 Lakh
+
+265) Ashutosh Sharma - Unsold
+
+266) Arunay Singh - Rajasthan Royals - Rs 20 Lakh
+
+267) Tim Seifert - Delhi Capitals - Rs 50 Lakh
+
+268) Moises Henriques - Unsold
+
+269) Akeal Hosein - Unsold
+
+270) Scott Kuggeleijn - Unsold
+
+271) Gurkeerat Singh - Gujarat Titans - Rs 50 Lakh
+
+272) Tim Southee - Kolkata Knight Riders - Rs 1.5 Crore
+
+273) Utkarsh Rana - Unsold
+
+274) Matheesha Pathirana - Unsold
+
+275) Kuldip Yadav - Rajasthan Royals - Rs 20 Lakh
+
+276) Colin Munro - Unsold
+
+277) Varun Aaron - Gujarat Titans - Rs 50 Lakh
+
+278) Shivank Vashishth - Unsold
+
+279) Ramesh Kumar - Kolkata Knight Riders - Rs 20 Lakh
+
+280) Gerald Coetzee - Unsold
+
+281) Pratyush Singh - Unsold
+
+282) Shubham Sharma - Unsold
+
+283) K Bhagath Varma - Chennai Super Kings - Rs 20 Lakh
+
+284) Chinntla Readdi - Unsold
+
+285) Bharat Sharma - Unsold
+
+286) Arjun Tendulkar - Mumbai Indians - Rs 30 Lakh
+
+287) Shubham Garhwal - Rajasthan Royals - Rs 20 Lakh
+
+288) Duan Jansen - Unsold
+
+289) Khizar Dafedar - Unsold
+
+290) Rohan Rana - Unsold
+
+291) Daryl Mitchell - Rajasthan Royals - Rs 75 Lakh
+
+292) Rohan Kadam - Unsold
+
+293) Sameer Rizvi - Unsold
+
+294) Luvnith Sisodia - Royal Challengers Bangalore - Rs 20 Lakh
+
+295) Fabian Allen - Mumbai Indians - Rs 75 Lakh
+
+296) Aman Khan - Kolkata Knight Riders - Rs 20 Lakh
+
+297) Rahul Chandrol - Unsold
+
+298) Kulwant Khejroliya - Unsold
+
+299) Akash Madhwal - Unsold
