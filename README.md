@@ -1,6 +1,7 @@
 # IPL-Auction-Analysis
 
 1. The note book Auction_simulator.ipynb runs the auction simulator.
+<br />
 The data and models required to run the simulator can be found in Data/ and models/
 <br />
 2. Train_Data_Creation.ipynb creates the training data (IPL auction 2022) for the decision model (no need to run, train data available in Data/)
